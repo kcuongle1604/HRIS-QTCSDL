@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT\\frmChucVu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmnhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmnhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmloiphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmloiphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmloiphat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmloiphat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmluong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmluong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmnghiphep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmnghiphep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmnghiphep.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmnghiphep.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmchamcong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmchamcong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmdgnl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmdgnl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmdgnl.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmdgnl.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmkynang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmkynang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmkynang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmkynang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmchungchi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmchungchi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmbangcap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmbangcap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmbangcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmbangcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmphongban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmphongban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|d:\\project\\frmchucvu\\frmchucvu\\frmchucvu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE90784-82D1-4C46-9292-9D5D4E238C9F}|frmChucVu\\frmChucVu.csproj|solutionrelative:frmchucvu\\frmchucvu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNhanSu.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNhanSu.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmNhanSu.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNhanSu.cs",
+              "RelativeToolTip": "frmChucVu\\frmNhanSu.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:24:23.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhanSu.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNhanSu.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmNhanSu.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNhanSu.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmNhanSu.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwPcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:24:21.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLoiPhat.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmLoiPhat.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmLoiPhat.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmLoiPhat.cs",
+              "RelativeToolTip": "frmChucVu\\frmLoiPhat.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAmwGsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:24:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLoiPhat.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmLoiPhat.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmLoiPhat.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmLoiPhat.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmLoiPhat.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:24:04.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLuong.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmLuong.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmLuong.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmLuong.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmLuong.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwE0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:23:51.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLuong.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmLuong.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmLuong.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmLuong.cs",
+              "RelativeToolTip": "frmChucVu\\frmLuong.cs",
+              "ViewState": "AgIAAKYBAAAAAAAAAAAmwMABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:23:39.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmNghiPhep.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNghiPhep.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmNghiPhep.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNghiPhep.cs",
+              "RelativeToolTip": "frmChucVu\\frmNghiPhep.cs",
+              "ViewState": "AgIAALYBAAAAAAAAAAAuwNIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:23:26.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmNghiPhep.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNghiPhep.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmNghiPhep.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNghiPhep.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmNghiPhep.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwB8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:23:17.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmChamCong.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChamCong.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmChamCong.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChamCong.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmChamCong.Designer.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAuwGQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:22:54.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmChamCong.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChamCong.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmChamCong.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChamCong.cs",
+              "RelativeToolTip": "frmChucVu\\frmChamCong.cs",
+              "ViewState": "AgIAANsBAAAAAAAAAAAqwO4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:22:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDGNL.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmDGNL.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmDGNL.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmDGNL.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmDGNL.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:22:36.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDGNL.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmDGNL.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmDGNL.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmDGNL.cs",
+              "RelativeToolTip": "frmChucVu\\frmDGNL.cs",
+              "ViewState": "AgIAAKABAAAAAAAAAAAmwLoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:22:34.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmBaoCao.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmBaoCao.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmBaoCao.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmBaoCao.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmBaoCao.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:22:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmBaoCao.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmBaoCao.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmBaoCao.cs",
+              "RelativeToolTip": "frmChucVu\\frmBaoCao.cs",
+              "ViewState": "AgIAANABAAAAAAAAAAAqwOsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:22:01.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmKyNang.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmKyNang.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmKyNang.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmKyNang.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmKyNang.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwEUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:21:17.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmKyNang.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmKyNang.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmKyNang.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmKyNang.cs*",
+              "RelativeToolTip": "frmChucVu\\frmKyNang.cs*",
+              "ViewState": "AgIAACoBAAAAAAAAAAAmwEQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:21:05.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmChungChi.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChungChi.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmChungChi.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChungChi.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmChungChi.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:20:57.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmChungChi.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChungChi.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmChungChi.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChungChi.cs",
+              "RelativeToolTip": "frmChucVu\\frmChungChi.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAqwBsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:20:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmBangCap.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmBangCap.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmBangCap.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmBangCap.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmBangCap.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:20:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmBangCap.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmBangCap.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmBangCap.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmBangCap.cs",
+              "RelativeToolTip": "frmChucVu\\frmBangCap.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAiwI8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:20:11.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmNhanVien.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmNhanVien.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmNhanVien.Designer.cs",
+              "ViewState": "AgIAABECAAAAAAAAAAAuwC0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:19:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmPhongBan.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmPhongBan.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmPhongBan.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmPhongBan.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmPhongBan.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwO0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:19:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmPhongBan.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmPhongBan.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmPhongBan.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmPhongBan.cs",
+              "RelativeToolTip": "frmChucVu\\frmPhongBan.cs",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAqwNgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:19:35.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmChucVu.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChucVu.Designer.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmChucVu.Designer.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChucVu.Designer.cs",
+              "RelativeToolTip": "frmChucVu\\frmChucVu.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA+wBUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:19:13.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmChucVu.cs",
+              "DocumentMoniker": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChucVu.cs",
+              "RelativeDocumentMoniker": "frmChucVu\\frmChucVu.cs",
+              "ToolTip": "D:\\PROJECT\\frmChucVu\\frmChucVu\\frmChucVu.cs",
+              "RelativeToolTip": "frmChucVu\\frmChucVu.cs",
+              "ViewState": "AgIAANABAAAAAAAAAAAqwOsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:19:09.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
